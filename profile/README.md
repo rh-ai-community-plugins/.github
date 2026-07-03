@@ -2,6 +2,8 @@
 
 > AI moves fast. Enterprise platforms need stability. Community Plugins bridge the gap.
 
+**[Browse the Plugin Catalog](https://rh-ai-community-plugins.github.io/charter)** — discover, compare, and install community plugins for Red Hat OpenShift AI.
+
 This organization hosts the repositories behind the Red Hat AI Community Plugins.
 Plugins add new, possibly ephemeral capabilities without touching the core supported platform. Simple install, simple removal.
 
