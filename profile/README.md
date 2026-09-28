@@ -15,11 +15,12 @@ Governance, plugin spec, submission process, and the plugin catalog, head to the
 
 | Plugin | Description |
 |--------|-------------|
-| **[community-plugins-admin](https://github.com/rh-ai-community-plugins/community-plugins-admin)** | Discover, install, upgrade, and manage community plugins from the RHOAI Dashboard |
-| **[hello-world](https://github.com/rh-ai-community-plugins/hello-world)** | Reference implementation to get started |
-| **[kueue-visualizer](https://github.com/rh-ai-community-plugins/kueue-visualizer)** | Visualize Kueue workload scheduling, queue topology, and capacity |
-<!-- | **[brewet](https://github.com/rh-ai-community-plugins/brewet)** | Community plugin for the Red Hat OpenShift AI (RHOAI) Dashboard | -->
-<!-- | **[apache-superset](https://github.com/rh-ai-community-plugins/apache-superset)** | Deploy Apache Superset on-demand and embed dashboards inline in the RHOAI Dashboard | -->
+| **[community-plugins-admin](https://github.com/rh-ai-community-plugins/community-plugins-admin)** | Discover, install, upgrade, remove, enable, and disable community plugins from the RHOAI Dashboard |
+| **[hello-world](https://github.com/rh-ai-community-plugins/hello-world)** | A reference implementation and scaffold plugin for the RHOAI Dashboard |
+| **[apache-superset](https://github.com/rh-ai-community-plugins/apache-superset)** | Deploy Apache Superset on-demand and embed dashboards inline in the RHOAI Dashboard |
+| **[brewet](https://github.com/rh-ai-community-plugins/brewet)** | S3 and PVC storage management for Red Hat OpenShift AI — browse, upload, download, and transfer files across storage backends |
+| **[kueue-visualizer](https://github.com/rh-ai-community-plugins/kueue-visualizer)** | Kueue queue visibility for the RHOAI Dashboard — queue topology, workload scheduling status, cohort borrowing, and resource flavor mapping |
+| **[quickstarts-manager](https://github.com/rh-ai-community-plugins/quickstarts-manager)** | Browse, deploy, and manage AI Quickstarts from the rh-ai-quickstart GitHub organization |
 <!-- | **[hermes-agent-deployer](https://github.com/rh-ai-community-plugins/hermes-agent-deployer)** | Deploy and manage Hermes Agent instances from the RHOAI Dashboard | -->
 
 ---
