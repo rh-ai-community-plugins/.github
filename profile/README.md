@@ -15,7 +15,7 @@ Governance, plugin spec, submission process, and the plugin catalog, head to the
 
 | Plugin | Description |
 |--------|-------------|
-| **[community-plugins-admin](https://github.com/rh-ai-community-plugins/community-plugins-admin)** | Discover, install, upgrade, remove, enable, and disable community plugins from the RHOAI Dashboard |
+| **[community-plugins-catalog](https://github.com/rh-ai-community-plugins/community-plugins-catalog)** | Discover, install, upgrade, and manage community plugins for the RHOAI Dashboard |
 | **[hello-world](https://github.com/rh-ai-community-plugins/hello-world)** | A reference implementation and scaffold plugin for the RHOAI Dashboard |
 | **[maaspal](https://github.com/rh-ai-community-plugins/maaspal)** | Test, probe, and verify Models as a Service (MaaS) policies, access, and rate limits on a live RHOAI cluster |
 | **[brewet](https://github.com/rh-ai-community-plugins/brewet)** | S3 and PVC storage management for Red Hat OpenShift AI — browse, upload, download, and transfer files across storage backends |
